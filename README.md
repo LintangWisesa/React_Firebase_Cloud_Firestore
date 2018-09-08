@@ -10,7 +10,7 @@
 
 ## __:snowflake: Follow these instructions:__
 
-In this project, you will have 2 textbox inputs a button to post user input into Firebase Cloud Firestore. First, create a project on [Firebase](https://firebase.google.com/), then clone this repo:
+In this project, you will have 2 textbox inputs & a button to post user input into Firebase Cloud Firestore. First, create a project on [Firebase](https://firebase.google.com/), then clone this repo:
 
 ```bash
 $ git clone https://github.com/LintangWisesa/React_Firebase_Cloud_Firestore.git
