@@ -1,4 +1,5 @@
 import firebase from 'firebase'
+
 // change lines below with your own Firebase snippets!
 var config = {
   apiKey: "1a2b3c4d5e6f7g8h9i0j",
