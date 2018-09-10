@@ -4,7 +4,7 @@
 
 # __React & Firebase Cloud Firestore__
 
-### A simple React app to post data to Firebase Cloud Firestore. 
+### A simple React app to post data to Firebase Cloud Firestore. Watch its demo below or [click here](https://youtu.be/BrSTa2Rlv1o).
 
 [![Video](https://img.youtube.com/vi/BrSTa2Rlv1o/0.jpg)](https://www.youtube.com/watch?v=BrSTa2Rlv1o)
 
