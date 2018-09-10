@@ -6,7 +6,7 @@
 
 ### A simple React app to post data to Firebase Cloud Firestore. 
 
-<!-- [![Video](https://img.youtube.com/vi/COcSUL76pUY/0.jpg)](https://www.youtube.com/watch?v=COcSUL76pUY) -->
+[![Video](https://img.youtube.com/vi/BrSTa2Rlv1o/0.jpg)](https://www.youtube.com/watch?v=BrSTa2Rlv1o)
 
 ## __:snowflake: Follow these instructions:__
 
@@ -26,7 +26,7 @@ Open __fire.js__ then edit it with your own Firebase snippets. Get your Firebase
 $ npm start
 ```
 
-__*Note:*__ In this project, you need a global package: __*firebase-tools*__ & a local packages: __*firebase*__.
+__*Note:*__ In this project, you need a global package: __*firebase-tools*__ & a local package: __*firebase*__.
 
 ## __:snowflake: Screenshot:__
 
